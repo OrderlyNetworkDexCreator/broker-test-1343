@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "roofless",
-  "VITE_ORDERLY_BROKER_NAME": "Roofless Broker",
+  "VITE_ORDERLY_BROKER_NAME": "Roofless",
   "VITE_BROKER_EOA_ADDRESS": "0x5d3999b09a599837b2117f55d13a21aaca6c2914",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "3901a4dc3a30ab562352d78338080d66",
-  "VITE_APP_NAME": "Roofless Broker",
+  "VITE_APP_NAME": "Roofless",
   "VITE_APP_DESCRIPTION": "Roofless is a decentralized liquidity hub under the Roam ecosystem, connecting traders, liquidity providers, and protocols through a unified PREP DEX infrastructure.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
